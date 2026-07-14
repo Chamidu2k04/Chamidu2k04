@@ -26,15 +26,6 @@ I'm a **Software Engineering Undergraduate at SLIIT** with a passion for buildin
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamidu2k04&show_icons=true&theme=radical&hide_border=true" alt="Chamidu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamidu2k04&layout=compact&theme=radical&hide_border=true" alt="Chamidu's Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
