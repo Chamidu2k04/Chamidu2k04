@@ -1,1 +1,1 @@
-![Chamidu Herath](Grey and Black Simple Marketing LinkedIn Banner.png)
+![Chamidu Herath](image.png)
