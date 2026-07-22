@@ -31,7 +31,7 @@ A two-sided marketplace for day outing spots, launched as a registered business 
 *   **Tech Stack:** Next.js, Supabase, Tailwind CSS, PayHere, Text.lk
 *   **Key Features:** Automated revenue generation via secure payment systems and monthly listing renewals. Enhanced SEO and performance using Server-Side Rendering (SSR) alongside an RLS-secured admin dashboard for financial auditing and visitor analytics.
 
-#### 📱 Shine Depot — Vehicle Service Center System
+#### 📱 [Shine Depot — Vehicle Service Center System](https://shinedepot.lk) 
 A supply chain management module built for a production client environment.
 *   **Tech Stack:** React Native, Expo Go, MongoDB
 *   **Key Features:** Real-time inventory tracking that instantly updates stock levels upon shipment receipt, complete with an automated low-stock alert system to prevent inventory shortages.
